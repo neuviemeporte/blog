@@ -17,7 +17,7 @@ title: Neuviemeporte
 email: neuviemeporte@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Misadventures in 16bit reverse engineering, C++ WTFs and general rants about the state of modern IT.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: https://neuviemeporte.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  neuviemeporte
 
